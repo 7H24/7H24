@@ -16,7 +16,6 @@
 - 🌱 **Learning**: Currently exploring LLM application patterns, specifically RAG and Vector Database implementation.
 - 🎯 **Goals**: Actively preparing for PhD applications and seeking Algorithm Engineer roles.
 - ⚡ **hobby**: basketball 🏀 enthusiast, lover of Music 🎵 & Anime 📺.
-- 💬 **Motto**: *"Per aspera ad astra"* 
 
 ### 🏆 Highlights & Achievements
 - 📝 **Paper (1st Author)**: *Research on Computation Offloading and Resource Allocation Strategy Based on MADDPG for Integrated Space–Air–Marine Network* (Published in Entropy, SCI Journal)
