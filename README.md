@@ -12,9 +12,18 @@
   </a>
 </div>
 
+<!-- 2. 自我介绍：身份与研究方向 -->
+### 👨‍💻 About Me
+- 🎓 **Background**: Computer Science & Finance student@Shanghai Maritime University.
+- 🔭 **Research**: Deeply focused on Multi-Agent Reinforcement Learning and Computer Vision.
+- 🌱 **Learning**: Currently exploring LLM application patterns, specifically RAG and Vector Database implementation.
+- 🎯 **Goals**: Actively preparing for PhD applications and seeking Algorithm Engineer roles.
+- ⚡ **hobby**: basketball 🏀 enthusiast, lover of Music 🎵 & Anime 📺.
+- 💬 **Motto**: *"Per aspera ad astra"* 
+
 <!-- 3. 学术成就：硬核成果展示区 -->
 ### 🏆 Highlights & Achievements
-- 📝 **Paper (1st Author)**: *Research on Computation Offloading and Resource Allocation Strategy Based on **MADDPG** for Integrated Space–Air–Marine Network* (Published in **Entropy**, SCI Journal)
+- 📝 **Paper (1st Author)**: *Research on Computation Offloading and Resource Allocation Strategy Based on MADDPG for Integrated Space–Air–Marine Network* (Published in Entropy, SCI Journal)
 - 🛠 **Patent (1st Inventor)**: *A generic image optimization method and system combined with attention mechanism* (national invention patent)
 - 🏆 **Shanghai Scholarship** Winner (Top honors for academic excellence in shanghai maritime university)
 
