@@ -1,4 +1,4 @@
-### 👨‍💻 About Me
+### 💫 About Me
 - 🎓 **Background**: Computer Science & Finance student@Shanghai Maritime University.
 - 🔭 **Research**: Deeply focused on Multi-Agent Reinforcement Learning and Computer Vision.
 - 🌱 **Learning**: Currently exploring LLM application patterns, specifically RAG and Vector Database implementation.
