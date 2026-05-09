@@ -7,7 +7,7 @@
 
 ### 🏆 Highlights & Achievements
 - 📝 **Paper (1st Author)**: *Research on Computation Offloading and Resource Allocation Strategy Based on MADDPG for Integrated Space–Air–Marine Network* (Published in Entropy, SCI Journal)
-- 🛠 **Patent (1st Inventor)**: *A generic image optimization method and system combined with attention mechanism* (national invention patent)
+- 🛠 **Patent (1st Inventor)**: *A generic image optimization method and system combined with attention mechanism* (national invention)
 - 🏆 **Shanghai Scholarship** Winner + **ACM-ICPC Invitational** Bronze Medalist
 
 ### 🛠 Tech Stack
