@@ -1,5 +1,5 @@
 ### 💫 About Me
-- 🎓 **Background**: Computer Science & Finance student.
+- 🎓 **Background**: Computer Science & Finance student@junior in college.
 - 🔭 **Research**: Deeply focused on Multi-Agent Reinforcement Learning and Computer Vision.
 - 🌱 **Learning**: Currently exploring LLM application patterns, specifically RAG and Vector Database implementation.
 - 🎯 **Goals**: Actively preparing for PhD applications and seeking Algorithm Engineer roles.
@@ -8,7 +8,7 @@
 ### 🏆 Highlights & Achievements
 - 📝 **Paper (1st Author)**: *Research on Computation Offloading and Resource Allocation Strategy Based on MADDPG for Integrated Space–Air–Marine Network* (Published in Entropy, SCI Journal)
 - 🛠 **Patent (1st Inventor)**: *A generic image optimization method and system combined with attention mechanism* (national invention patent)
-- 🏆 **Shanghai Scholarship** Winner 
+- 🏆 **Shanghai Scholarship** Winner + **ACM-ICPC Invitational** Bronze Medalist
 
 ### 🛠 Tech Stack
 <div align="center">
